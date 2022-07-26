@@ -23,3 +23,4 @@
 - numpy
 - scipy
 - seaborn
+- math
