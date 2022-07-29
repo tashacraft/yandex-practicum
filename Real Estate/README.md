@@ -31,3 +31,4 @@
 ## Используемые библиотеки
 - pandas
 - matplotlib
+- seaborn
